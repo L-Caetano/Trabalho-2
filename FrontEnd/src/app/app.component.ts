@@ -11,6 +11,6 @@ export class AppComponent {
     { title: 'Inserir Artista', url: '/inserir-dados-singer', icon: 'create' },
     { title: 'Inserir Album', url: '/inserir-dados-album', icon: 'create' },
   ];
-  public labels = ['Family', 'Friends', 'Notes', 'Work', 'Travel', 'Reminders'];
+  
   constructor() {}
 }
