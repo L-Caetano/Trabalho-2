@@ -1,4 +1,4 @@
-# trabcaio
+# Trabalho 2 
 
 <h3>1° Passo - Clone este repositorio e acesse a pasta BackEnd </h3>
 -Com python instalado use o commando "pip install -r requirements.txt" para baixar as dependencias do projeto
